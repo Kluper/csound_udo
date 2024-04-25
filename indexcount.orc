@@ -46,3 +46,5 @@ if ktrig == 1 then
 endif
 
 xout kindex 
+
+endop
